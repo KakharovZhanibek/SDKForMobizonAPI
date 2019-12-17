@@ -1,0 +1,4 @@
+https://mobizon.kz/help/api-docs/message#SendSmsMessage
+https://mobizon.kz/help/api-docs/message#GetSMSStatus
+https://developer.qiwi.com/ru/qiwi-wallet-personal/?python#auth_api
+https://core.telegram.org/bots/api#message
